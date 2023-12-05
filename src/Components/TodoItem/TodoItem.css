@@ -1,0 +1,19 @@
+.todoItem{
+    padding-left: 28%;
+}
+.todo_title{
+    margin-bottom: 10px;
+}
+.btn{
+    padding: 0 7px;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.delete_btn{
+    margin: 0 10px;
+    background-color: brown;
+}
+.complete_btn{
+    background-color: green;
+}
